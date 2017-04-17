@@ -7,6 +7,8 @@ import org.junit.Test;
 
 public class Test1 extends Object{
 
+	//添加文本注释
+	
 	@Test
 	public void test1(){
 		List list=new ArrayList<>();
